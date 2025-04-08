@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\MyProject\DVLD_DataAccess\bin\Release\DVLD_DataAccess.dll
+C:\Users\User\Desktop\MyProject\DVLD_DataAccess\bin\Release\DVLD_DataAccess.pdb
+C:\Users\User\Desktop\MyProject\DVLD_DataAccess\obj\Release\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyProject\DVLD_DataAccess\obj\Release\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyProject\DVLD_DataAccess\obj\Release\DVLD_DataAccess.dll
+C:\Users\User\Desktop\MyProject\DVLD_DataAccess\obj\Release\DVLD_DataAccess.pdb
+C:\Users\User\Desktop\DVLD\Code Source\DVLD_DataAccess\bin\Release\DVLD_DataAccess.dll
+C:\Users\User\Desktop\DVLD\Code Source\DVLD_DataAccess\bin\Release\DVLD_DataAccess.pdb
+C:\Users\User\Desktop\DVLD\Code Source\DVLD_DataAccess\obj\Release\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DVLD\Code Source\DVLD_DataAccess\obj\Release\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DVLD\Code Source\DVLD_DataAccess\obj\Release\DVLD_DataAccess.dll
+C:\Users\User\Desktop\DVLD\Code Source\DVLD_DataAccess\obj\Release\DVLD_DataAccess.pdb
